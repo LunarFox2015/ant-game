@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AntMover.cs" />
     <Compile Include="Assets\Scripts\AntSpawner.cs" />
+    <Compile Include="Assets\Scripts\Exit.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

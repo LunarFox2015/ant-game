@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3909004122011302640}
   - component: {fileID: 8329512496225176626}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LightGrey_Box32x32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1288738457589512834}
   - component: {fileID: 3613353281255462480}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LightGrey_Rect32x128 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -174,7 +174,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8428282770445021830}
   - component: {fileID: 6632077219495166969}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LightGrey_Rect32x128 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -256,7 +256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5125507618937433743}
   - component: {fileID: 493848769731900958}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LightGrey_Box64x64Measured
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -338,7 +338,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2105632695871038136}
   - component: {fileID: 4598539294303065178}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LightGrey_Rect32x128
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -422,9 +422,9 @@ GameObject:
   - component: {fileID: 820046017816355850}
   - component: {fileID: 4817799247653815082}
   - component: {fileID: 8357232350125702987}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Ant
-  m_TagString: Untagged
+  m_TagString: Ant
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
