@@ -8,6 +8,9 @@ TagManager:
   - Wall
   - Dirt
   - Ant
+  - Climber
+  - Tunneller
+  - Burrower
   layers:
   - Default
   - TransparentFX
