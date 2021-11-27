@@ -7,4 +7,6 @@
  
  This version is stable but some features may not be fully implemented.
  
- To install, navigate to 
+ To install, navigate to: 
+ https://github.com/LunarFox2015/ant-game/tree/main/Ant%20Game/Builds
+ and download v0.1
