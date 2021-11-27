@@ -18,9 +18,10 @@ public class Exit : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.CompareTag("Ant"))
-        {
+        if (collision.gameObject.layer == 10)
+        { 
             Destroy(collision.gameObject);
+            Debug.Log("Ant has reached exit");
         }
     }
 }
