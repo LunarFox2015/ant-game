@@ -11,6 +11,9 @@ TagManager:
   - Climber
   - Tunneller
   - Burrower
+  - Stop
+  - Stone
+  - Spike
   layers:
   - Default
   - TransparentFX
@@ -21,8 +24,8 @@ TagManager:
   - Walls
   - Floors
   - Dirt
-  - Ants
   - Gates
+  - Ants
   - 
   - 
   - 
@@ -47,4 +50,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 857721607
+    locked: 0
+  - name: Terrain
+    uniqueID: 1130029817
+    locked: 0
+  - name: Gate
+    uniqueID: 1629636653
+    locked: 0
+  - name: Ant
+    uniqueID: 2573742073
     locked: 0
